@@ -36,7 +36,7 @@ public:
 	// Clears the content of a linked list
 	void clear();
     
-    //gets head of linkedList
+    //get head of linkedList
     Node* getHead() const;
     
 };
